@@ -35,6 +35,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+NestJS is a framework for building efficient, scalable Node. js server-side applications.Nest provides a level of abstraction above these common Node. js frameworks (Express/Fastify), but also exposes their APIs directly to the developer.
 
 ## Installation
 
